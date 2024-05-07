@@ -1,5 +1,5 @@
 public class sample{
-    sample(byte x){
+    sample(int x){
             if(x>0){
                 if(x%2==0){
                     System.out.println(x+"is postive and even");
@@ -13,7 +13,7 @@ public class sample{
                 System.out.println(x+"is negative ");
             }
             else{
-                System.out.println(x+"is Zero");
+                System.out.println("Zero");
             }
     }
 }
