@@ -1,4 +1,4 @@
-public class sample{
+ class sample{
     sample(int x){
             if(x>0){
                 if(x%2==0){
