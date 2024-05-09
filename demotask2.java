@@ -1,13 +1,9 @@
 class Arithmetic{
    int add(int x,int y){
         return x+y;
-   }
-   
+   } 
 }
-class Adder extends Arithmetic{
-     
-     
-}
+class Adder extends Arithmetic{}
 public class demotask2 {
         public static void main(String []args){
             Adder a = new Adder();
