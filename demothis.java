@@ -22,6 +22,5 @@ public class demothis {
       obj1Samplethis.display();
       samplethis obj2Sample=  new samplethis("ravi", 18);
       obj2Sample.display();
-      //   System.out.println
     }
 }
