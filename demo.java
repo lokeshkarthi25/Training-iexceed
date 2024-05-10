@@ -19,6 +19,6 @@
 }
 public class demo{
     public static void main(String args[]){
-        new sample(5);
+        new sample(7);
     }
 }
