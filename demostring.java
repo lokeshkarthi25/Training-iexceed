@@ -3,7 +3,7 @@ class string{
         String name="soccer";
         String name1="SocceR";
               System.out.println(name.equalsIgnoreCase(name1)); //return boolean
-              String name2=new String("JAVa");
+              String name2=new String("football");
               System.out.println(name==name2);//return boolean
               System.out.println(Objects.equals(name1, name2)); //return boolean
 }
