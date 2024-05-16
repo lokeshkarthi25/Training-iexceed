@@ -1,0 +1,13 @@
+import slm2024.studentdata;
+
+class samplepack extends studentdata{
+    samplepack(String name,String place,int age){
+        super(name,place,age);
+        super.displaystudent();
+    }
+}
+public class demopack {
+    public static void main(String[] args) {
+        new samplepack("karthi", "Tirunelveli", 21);
+    }
+}
