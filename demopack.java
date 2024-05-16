@@ -8,6 +8,6 @@ class samplepack extends studentdata{
 }
 public class demopack {
     public static void main(String[] args) {
-        new samplepack("karthi", "Tirunelveli", 21);
+        new samplepack("loki", "Nellai", 20);
     }
 }
