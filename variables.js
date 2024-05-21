@@ -14,7 +14,7 @@ start()
 
 function first(){
     y=20
-    console.log(y); //we can also redefine the let variables also
+    console.log(y); //we can also redefine the let variables in the block
 }
 first()
 
