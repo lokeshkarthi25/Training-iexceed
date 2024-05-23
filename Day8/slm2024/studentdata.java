@@ -6,7 +6,7 @@ public class studentdata {
     public  studentdata(String name,String place,int age){
         this.name=name;
         this.place=place;
-        this.age=age;;;;
+        this.age=age;
       }
       public void displaystudent(){
         System.out.println("Name: "+name);
