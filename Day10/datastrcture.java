@@ -1,6 +1,6 @@
-package Day9;
+package Day10;
 
-public class array {
+public class datastrcture {
     public static void main(String[] args) {
         
     }
